@@ -1,0 +1,17 @@
+As a UX expert following the BmAD method, I need your help to create a comprehensive Product Requirements Document (PRD) for a simple to-do list application. The goal is to define the application's functionality from a user's perspective, ensuring it solves a real business problem.
+
+Please provide a detailed PRD that includes the following sections, and write it in the voice of a UX professional.
+
+Introduction: Briefly explain the purpose and scope of the application, focusing on the core problem it solves for the user.
+
+User Stories: Create a set of user stories that define the application's key features from the user's point of view. Each story should follow the format: 'As a [user type], I want to [goal] so that [reason/benefit].'
+
+Functional Requirements: Based on the user stories, list the specific features and behaviors the application must have. These should be described clearly and be testable.
+
+User Interface (UI) Requirements: Describe the layout, styling, and accessibility guidelines. Focus on how the design will support the user's goals and create a positive experience.
+
+Non-Functional Requirements: Outline the criteria that define the quality of the user experience, such as performance, usability, and technical constraints that directly impact the user.
+
+Acceptance Criteria: For each major functional requirement, provide a set of 'acceptance criteria' that a user can validate. These should be 'checks' that confirm the feature works as intended from a user perspective.
+
+The application must be a single-page web app with no external dependencies. The core functionality includes adding, completing, and deleting tasks with automatic data persistence."

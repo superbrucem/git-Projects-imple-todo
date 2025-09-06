@@ -1,0 +1,30 @@
+PRD Generation Prompt
+You are a product manager tasked with creating a comprehensive Product Requirements Document (PRD) for the "Simple To-Do List Application" based on the provided Project Brief.
+
+Your PRD should be a professional, well-structured document that includes the following sections:
+
+1. Introduction: Briefly introduce the project's purpose and goals.
+
+2. User Stories:  Create 3-5 concise user stories in the format "As a [type of user], I want to [action], so that [reason]." These stories should cover the core functionalities outlined in the Project Brief.
+
+3. Functional Requirements: List and describe the specific functionalities the application must have, such as:
+
+Task Management: Details on how tasks are added, displayed, and edited.
+
+Data Persistence: Explain how the list will be saved and retrieved.
+
+User Interface (UI) Requirements: Describe the expected visual and interactive elements.
+
+4. Non-Functional Requirements: Define requirements that are not tied to a specific function but are essential for the application's performance and user experience.
+
+Performance: How quickly should the app load and respond to user actions?
+
+Usability: How intuitive should the interface be?
+
+Technical Constraints: Reiterate that the application must be a single HTML file with internal CSS and JavaScript.
+
+5. Acceptance Criteria: For each core user story or functional requirement, provide a set of specific, measurable, and testable conditions that must be met for the feature to be considered complete. Use a checklist format where possible.
+
+6. Release Plan & Scope: Define what features will be included in the initial release (V1.0) and a brief mention of potential future enhancements (e.g., user authentication, task priorities, etc.).
+
+Your final document should be clear, detailed, and serve as the primary guide for the development and testing teams. It should transform the high-level concepts from the Project Brief into actionable, specific requirements.

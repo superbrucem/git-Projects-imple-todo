@@ -1,0 +1,17 @@
+As a system architect specializing in the BmAD (Business-Driven, Model-Based, Agile Development) method, I need your expertise to create a comprehensive system architecture document for the following product.
+
+Instructions:
+
+Analyze the Business Domain: First, identify and articulate the core business functions, primary user roles, and their key goals from the PRD. Explain how the proposed architecture directly addresses these business needs.
+
+Model the System: Propose a high-level, component-based system architecture. Use a text-based or simple diagrammatic representation to illustrate the relationships between components. The model should clearly show how data flows through the system and how the different parts interact.
+
+Specify Technical Implementation: Detail the technical design choices. This should include:
+
+The proposed data model and its structure.
+
+The key software design patterns (e.g., MVC, Observer) and architectural patterns (e.g., a layered architecture) that will be used to build the system.
+
+A plan for handling non-functional requirements, such as data persistence, performance, and security, as outlined in the PRD.
+
+Validate against Agile Principles: Explain how this architecture is designed to support an agile development lifecycle. Specifically, discuss its modularity, extensibility, and how it allows for iterative development and future enhancements without a complete redesign.

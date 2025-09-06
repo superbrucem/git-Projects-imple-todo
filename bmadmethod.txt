@@ -1,0 +1,23 @@
+
+https://solodev.app/installing-the-bmad-method-for-roo-code#heading-the-big-picture
+
+npx bmad-method install
+
+create directory "todo"
+
+On the next screen, I provide the full path to my project directory and hit the ENTER key: https://solodev.app/installing-the-bmad-method-for-roo-code
+
+or put . if it is the current directory.
+
+will you shard the prd yes.
+
+architecture document into multiple files yes
+
+Type analyst in roocode.
+
+*help
+
+I would like to create a simple todo html page 
+that keeps track of my list. 
+Make sure it shows the bmad method.
+

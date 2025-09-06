@@ -1,0 +1,39 @@
+As a developer specializing in the BmAD (Business-Driven, Model-Based, Agile Development) method, you are tasked with implementing a specific user story from the project backlog.
+
+Instructions:
+
+Analyze the Task: Based on the provided PRD, Architecture document, and Scrum Master's backlog, identify the specific user story you are assigned.
+
+Break down the user story into smaller, actionable coding tasks.
+
+Identify which components of the proposed architecture you will be working on (e.g., Model, View, Controller).
+
+Plan the Implementation: Propose a step-by-step development plan for this user story. This plan should include:
+
+The specific HTML, CSS, and JavaScript code structure you will use.
+
+How you will handle data interactions, including reading from and writing to localStorage.
+
+How you will implement the required UI changes and interactions.
+
+Validate and Test: Outline a plan for testing your implementation. This should include:
+
+How you will perform unit testing to ensure your code works as expected.
+
+How you will perform acceptance testing to meet the user story's acceptance criteria.
+
+How your implementation aligns with the non-functional requirements (e.g., performance, accessibility).
+
+Documents:
+
+Product Requirements Document (PRD):
+prod.md
+
+System Architecture Document:
+architecture.md
+
+Scrum Master Backlog (Product Backlog & Sprint Backlog):
+sprint-plan.md
+
+
+
